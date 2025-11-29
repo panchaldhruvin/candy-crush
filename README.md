@@ -1,3 +1,3 @@
 # candy-crush
 the game
-Enjoy the game free of cosf
+Enjoy the game free of cost
